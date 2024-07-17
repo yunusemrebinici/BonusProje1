@@ -1,4 +1,6 @@
-# 
+# ÖĞRENCİ KAYIT PROJESİ
+Bu proje Murat Yücedağ tarafından Udemy üzerinde yayınlnamış, Öğrenci kayıt Projesidir.
+
 ![image alt](https://github.com/yunusemrebinici/BonusProje1/blob/master/G%C3%B6rseller/Giri%C5%9F.png?raw=true)
 ![image alt](https://github.com/yunusemrebinici/BonusProje1/blob/master/G%C3%B6rseller/2.png?raw=true)
 ![image alt](https://github.com/yunusemrebinici/BonusProje1/blob/master/G%C3%B6rseller/3.png?raw=true)
